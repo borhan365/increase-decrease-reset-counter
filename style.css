@@ -1,0 +1,14 @@
+
+
+.main-counter {
+  margin-top: 300px;
+  width: 100%;
+  align-items: center;
+  text-align: center;
+}
+#value {
+  margin-top: 20px;
+  font-size: 10rem;
+  font-weight: bold;
+  transition: all 0.5s;
+}
